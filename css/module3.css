@@ -1,0 +1,40 @@
+h1 {
+	padding: 1rem 0 1.6rem 0;
+}
+h2 {
+	padding: 0.6rem 0 0.8rem 0;
+}
+p {
+	padding: 1rem 1rem 0 1rem;
+}
+#maincontent {
+	min-height: 1200px;
+}
+
+.navbar {
+	background-color: goldenrod;	
+	border-bottom: solid black 2px;
+}
+
+.chicken {
+	background-color: cornsilk;	
+}
+
+.beef {
+	background-color: lightpink;	
+}
+
+.sushi {
+	background-color: palegreen;	
+}
+
+.navbar-toggler {
+	font-size: 1rem;
+}
+.navbar-nav {
+	margin-top: 0.6rem;
+}
+.nav-item {
+	background-color: white;
+	border-bottom: solid black 1px;
+}
